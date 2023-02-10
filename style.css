@@ -47,4 +47,16 @@ body{
 
 #resultado{
     background-color: white;
+    width: 210px;
+    height: 30px;
+    margin: 6px;
+    color: black;
+    font-size: 25px;
+    text-align: right;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+h1{
+    margin-bottom: 10px;
 }
